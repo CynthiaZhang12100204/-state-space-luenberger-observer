@@ -69,15 +69,23 @@ The observer poles were placed further into the left half of the complex plane t
 
 An important consideration is that excessively fast observers may become more sensitive to measurement noise.
 
-5. Simulation Results
+## 5. Simulation Results
 
-Simulink Model
+### Simulink Model
 
-Plant Output vs Observer Output
+![Simulink Model](simulink_model.png)
 
-Observer State Estimation
+### Plant Output vs Observer Output
 
-Output Estimation Error
+![Output Comparison](output_comparison.png)
+
+### Observer State Estimation
+
+![Observer State Estimation](observer_state_estimation.png)
+
+### Output Estimation Error
+
+![Estimation Error](estimation_error.png)
 
 6. What I Learned
 
