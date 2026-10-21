@@ -22,3 +22,16 @@ Output Estimation Error
 Tools
 MATLAB | Simulink | State-Space Modelling | Luenberger Observer
 Based on a Cranfield University classroom exercise, with my own implementation notes and learning reflections.
+## Simulation Results
+
+### Simulink Model
+![Simulink Model](simulink_model.png)
+
+### Plant Output vs Observer Output
+![Output Comparison](output_comparison.png)
+
+### Observer State Estimation
+![Estimated States](observer_state_estimation.png)
+
+### Output Estimation Error
+![Estimation Error](estimation_error.png)
